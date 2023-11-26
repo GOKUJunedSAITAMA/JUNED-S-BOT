@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/95eebe9dab63e8b17b44c.jpg" alt="Juned logo">
+  <img src="[https://telegra.ph/file/95eebe9dab63e8b17b44c.jpg](https://telegra.ph/file/9f6eb1106fe1315a313a5.jpg)" alt="Juned logo">
 </p>
 <h1 align="center">
   <b> Lazy PrincessV2.0 </b>

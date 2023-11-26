@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/9f6eb1106fe1315a313a5.jpg" alt="Juned logo">
 </p>
 <h1 align="center">
-  <b> JUNED BOY </b>
+  <b> 🔥🔥JUNED BOT🔥🔥 </b>
 </h1>
 
 
